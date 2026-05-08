@@ -1,1 +1,8 @@
+# Ignore Python bytecode files
 .python-version
+
+# Ignore Pdf files
+*.pdf
+
+# Environment variables
+*.env
