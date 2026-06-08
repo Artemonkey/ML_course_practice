@@ -1,0 +1,3 @@
+
+Pandas, sklearn.preprocessing – https://colab.research.google.com/drive/1uVeq9Spm5Y4OIligbmoSzWAdLBQSLP84#scrollTo=S4w0XkVrgnQ0
+PCA – https://colab.research.google.com/drive/1JJZ0qjdNVIhcxvIHIQfhwJe6SIGfAnmM#scrollTo=wYY3XdfEG9z-
