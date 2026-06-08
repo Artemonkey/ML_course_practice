@@ -38,3 +38,4 @@
      ```
      KAGGLE_API_TOKEN=your_kaggle_api_token
      ```
+Course educator – Ph.D. in Technology, Associate Professor of the Department of Radio Electronics and Communications Dolganov, Anton Yu
